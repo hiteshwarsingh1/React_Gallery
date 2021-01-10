@@ -1,0 +1,26 @@
+.App{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    background: #1c1327;
+}
+.imgSmall{
+    width: 100%;
+}
+.contain{
+    width: 800px;
+}
+.selectedContain{
+    width: 300px;
+    margin: 0 auto;
+   
+}
+.thumbContain{
+    width: 100%;
+    margin: 0 auto;
+    
+    
+}
+
+
